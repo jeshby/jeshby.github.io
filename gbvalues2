@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>british values</title>
+<style>
+#container
+{
+width:100%
+margin:auto
+max-width:800px;
+border:25px solid #0000cc;
+background-color: #ff0000;
+}
+#header
+{
+	padding: 15px;
+	color:#ff0000;
+	font-family: verdana, sans-serif;
+	font-size: 16px;
+	background-color: #0000cc;
+	}
+#banner
+	{
+	padding:0;
+	margin:0;
+	}
+#navbar
+	{
+	font-family: verdana, sans-serif;
+	font-size: 14px;float:left;
+	width:160px;
+	margin:0;
+	padding:15px;
+	}
+ #content
+{
+	margin-left:190px;
+	padding:10px;
+	color:#003961;
+	font-family: verdana, sans-serif;
+	font-size:16px;
+	background-color: #ffffff;
+}
+a:link {color: #003961;}
+a:visited {color #0000cc;}
+a:hover {color #ffffff;}
+a:hover {color #33ccff}
+
+</style>
+</head>
+<body>
+<div id="container">
+<div id="header">
+<h1 id="banner">british values</h1>
+</div>
+<div id="navbar">
+<p>
+</head>
+<nav>
+<a href="liberty.html">individual liberty </a><br>
+</nav>
+</div>
+<body>
+<div id="content">
+<h1>british values</h1>
+<h2>democracy</h2>
+<p1>democracy is important to us as it  
+<marquee>To promote democracy, the rules of law, individual liberty, mutual respect and tolerance of different faiths and beliefs".</marquee>
+<hr>
+
+<p>the belif of freedom and equality for people</p>
+</body>
+</html>
